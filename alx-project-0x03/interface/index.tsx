@@ -1,3 +1,5 @@
+import { ReactNode } from "react";
+
 // interface/index.ts
 export interface ButtonProps {
   buttonLabel: string;
